@@ -1,5 +1,17 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: <p align="center"> Kiran Chakkilam </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/kiran-chakkilam">LinkedIn</a> |
+  <a href="https://github.com/kiranupgrad">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Working in Mavenir as part of QA/Automation  team.
+  Working in Telecom domain for more than 15 years.
+  <br>
+  </p>
 google_analytics:
 theme: jekyll-theme-cayman
